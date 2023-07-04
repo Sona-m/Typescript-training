@@ -1,0 +1,72 @@
+.greet{
+  display : flex;
+  justify-content: space-between;
+  background-color: rgb(227, 75, 101);
+  color: white;
+  padding: 15px;
+  align-items: center;
+}
+.buttons{
+  text-align: center;
+  display : flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.friendlist{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(227, 75, 101);
+  color: white;
+  padding: 5px 10px 10px;
+  align-items: center;
+  margin: 15px;
+  height: 30px;
+}
+
+ .buttons button{
+  background-color: rgb(227, 75, 101);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.box{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(227, 75, 101);
+  color: white;
+  padding: 5px 10px 10px;
+  align-items: center;
+  margin: 15px;
+  height: 30px;
+}
+
+.Input{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(227, 75, 101);
+  color: white;
+  padding: 5px 10px 10px;
+  align-items: center;
+  margin: 15px;
+  height: 30px;
+}
+
+.user{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgb(227, 75, 101);
+  color: white;
+  padding: 20px 10px 10px;
+  align-items: center;
+  margin: 15px;
+  width : 25%
+}
